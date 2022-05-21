@@ -18,7 +18,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  /* transition: transform 0.5s ease-in-out; */
+  transition: transform 0.5s ease-in-out;
 }
 
 .item {
@@ -29,7 +29,6 @@ body {
   align-items: center;
   justify-content: center;
   color: rgb(0, 0, 0);
-  background-color:aqua;
 }
 
 .right {
